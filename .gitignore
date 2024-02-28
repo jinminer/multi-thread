@@ -1,0 +1,57 @@
+/.idea/
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+
+#配置文件参考如下
+# for Mac OS X System Files
+Thumbs.db
+
+# for emacs
+*~
+[#]*[#]
+
+# for Eclipse
+*.project
+
+# for Logs and databases
+*.log
+
+# remove SVN
+.svn
+
+# for Xcode
+.*.swp
+.clang_complete
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+
+# for IDEA
+*/build/*
+.idea/*
+*.iml
+/out/*
